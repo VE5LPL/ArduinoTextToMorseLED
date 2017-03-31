@@ -1,4 +1,4 @@
-
+// Read the read my on how to use
 
 void dit() {
  digitalWrite(led, HIGH); 
@@ -92,11 +92,30 @@ void K(){
   delay(1750);
 }
 void L(){
-   dit();
-   daw();
-   dit();
-   dit();
-   delay(1750);
+  dit();
+  daw();
+  dit();
+  dit();
+  delay(1750);
+}
+
+void M(){
+ daw();
+ daw();
+ delay(1750);
+}
+
+void N(){
+ daw();
+ dit();
+ delay(1750);
+}
+
+void O(){
+ daw();
+ daw();
+ daw();
+ delay(1750);
 }
 
 void P(){
@@ -104,6 +123,41 @@ void P(){
  daw();
  daw();
  dit();
+ delay(1750);
+}
+
+void Q(){
+ daw();
+ daw();
+ dit();
+ daw();
+ delay(1750);
+}
+
+void R(){
+ dit();
+ daw();
+ dit();
+ delay(1750);
+}
+
+void S()
+ dit();
+ dit();
+ dit();
+ delay(1750);
+}
+
+void T(){
+ daw();
+ delay(1750);
+}
+
+void U(){
+ dit();
+ dit();
+ daw();
+ delay(1750);
 }
 
 void V(){
@@ -111,6 +165,37 @@ void V(){
  dit();
  dit();
  daw(); 
+ delay(1750);
+}
+
+void W(){
+ dit();
+ daw();
+ daw();
+ delay(1750);
+}
+
+void X(){
+ daw();
+ dit();
+ dit();
+ daw();
+ delay(1750);
+}
+
+void Y(){
+ daw();
+ dit();
+ daw(); 
+ daw();
+ delay(1750);
+}
+
+void Z(){
+ daw();
+ daw();
+ dit();
+ dit();
  delay(1750);
 }
 
