@@ -1,4 +1,5 @@
-// Read the read my on how to use
+// Read the readme on how to use
+// By Keaton Lair
 
 int led = 13;
 
