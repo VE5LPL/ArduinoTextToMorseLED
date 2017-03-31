@@ -1,5 +1,7 @@
 // Read the read my on how to use
 
+int led = 13;
+
 void dit() {
  digitalWrite(led, HIGH); 
 delay(250);             
