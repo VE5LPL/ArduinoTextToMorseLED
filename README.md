@@ -14,7 +14,7 @@ void loop() {<br>
 }<br>
 <br>
 then inside while (true) { & } put X(Letter you want) then ();<br>
-       No Numbers of Lower Cases!<br>
+       No Numbers or Lower Cases!<br>
 so if i want to spell Keaton  I would do so:<br>
 <br>
 void loop() {<br>
