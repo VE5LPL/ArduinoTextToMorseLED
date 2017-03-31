@@ -1,4 +1,5 @@
 # ArduinoTextToMorseLED
+DO NOT USE 1.2 NOT COMPLETE, WILL ERROR OUT IN COMPILER!
 A Simple "Text" to Mose LED Program for Arduino.
 To have program work proper go to void loop (very bottom)
 and everything in the while remove: <br>
